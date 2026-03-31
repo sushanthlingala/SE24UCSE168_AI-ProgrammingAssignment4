@@ -168,7 +168,7 @@ d=None
 while True:
     print("1. Load textbook puzzle")
     print("2. Enter custom puzzle")
-    print("3. Solve")
+    print("3. Solve currently loaded puzzle")
     print("4. Show current puzzle")
     print("5. Exit\n")
 
